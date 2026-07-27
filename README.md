@@ -3,11 +3,8 @@ This game will be inspired by the various LiDAR mods for games out there, as wel
 ## Development
 This project will use Unreal Engine 5 with C++ in combination with Visual Studio to create our project. For source control, we will use GitHub.
 
-# Contributing to this projects
-
-## How to open the project
-
-To use this project, you will need Unreal Engine 5.4. For instructions on setting up Unreal Engine on your local computer, please look [here](https://www.unrealengine.com/en-US/download).
+## Archived
+This project is no longer being worked on. It is archived and for use by anyone who desires to look at the code.
 
 ## Other notes
 - Before adding art or other game assets in the editor, please add them to the "Assets" folder first.
